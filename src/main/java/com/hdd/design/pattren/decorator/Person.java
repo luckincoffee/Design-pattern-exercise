@@ -26,6 +26,7 @@ public class Person {
     }
 
     public void Show() {
-        
+        System.out.println("装扮的" + name);
     }
 }
+
